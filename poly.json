@@ -1,0 +1,151 @@
+[
+    {
+        "name": "Zoey",
+        "size": 10,
+        "imports": [
+            "Alpha",
+            "Freya",
+            "Alexis"
+        ]
+    },
+    {
+        "name": "Alpha",
+        "size": 10,
+        "imports": []
+    },
+    {
+        "name": "Alexis",
+        "size": 10,
+        "imports": [
+            "Luz"
+        ]
+    },
+    {
+        "name": "Freya",
+        "size": 10,
+        "imports": [
+            "Octavia",
+            "Luz",
+            "Akiko",
+            "Louie",
+            "Buncho",
+            "Jo",
+            "Fred"
+        ]
+    },
+    {
+        "name": "Luz",
+        "size": 10,
+        "imports": [
+            "Mori",
+            "Vivi",
+            "Mandy"
+        ]
+    },
+    {
+        "name": "Octavia",
+        "size": 10,
+        "imports": [
+            "Olympia"
+        ]
+    },
+    {
+        "name": "Tilead",
+        "size": 10,
+        "imports": [
+            "Mori"
+        ]
+    },
+    {
+        "name": "Mori",
+        "size": 10,
+        "imports": [
+        ]
+    },
+    {
+        "name": "Vivi",
+        "size": 10,
+        "imports": [
+        ]
+    },
+    {
+        "name": "Mandy",
+        "size": 10,
+        "imports": [
+        ]
+    },
+    {
+        "name": "Olympia",
+        "size": 10,
+        "imports": [
+            "D",
+            "S",
+            "Sym"
+        ]
+    },
+    {
+        "name": "Sym",
+        "size": 10,
+        "imports": [
+            "D",
+            "S"
+        ]
+    },
+    {
+        "name": "D",
+        "size": 10,
+        "imports": [
+            "S"
+        ]
+    },
+    {
+        "name": "S",
+        "size": 10,
+        "imports": [
+        ]
+    },
+    {
+        "name": "Fred",
+        "size": 10,
+        "imports": [
+        ]
+    },
+    {
+        "name": "Jo",
+        "size": 10,
+        "imports": [
+        ]
+    },
+    {
+        "name": "Buncho",
+        "size": 10,
+        "imports": [
+            "Di"
+        ]
+    },
+    {
+        "name": "Di",
+        "size": 10,
+        "imports": [
+        ]
+    },
+    {
+        "name": "Louie",
+        "size": 10,
+        "imports": [
+            "Max"
+        ]
+    },
+    {
+        "name": "Max",
+        "size": 10,
+        "imports": [
+        ]
+    },
+    {
+        "name": "Akiko",
+        "size": 10,
+        "imports": [
+        ]
+    }
+]
